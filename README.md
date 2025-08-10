@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-<head><script async custom-element="amp-auto-ads"
+<head> <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3170236932288677"
+     crossorigin="anonymous"></script><script async custom-element="amp-auto-ads"
         src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js">
 </script>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8"><meta name="google-adsense-account" content="ca-pub-3170236932288677">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>J ENTERPRICES - Creative Digital Solutions</title>
     <script src="https://cdn.tailwindcss.com"></script>
@@ -100,7 +101,7 @@
 </head>
 <body class="bg-gray-900 text-white overflow-x-hidden"><amp-auto-ads type="adsense"
         data-ad-client="ca-pub-3170236932288677">
-</amp-auto-ads>
+</amp-auto-ads>google.com, pub-3170236932288677, DIRECT, f08c47fec0942fa0
     <!-- Navigation -->
     <nav class="fixed top-0 w-full z-50 glass-nav">
         <div class="container mx-auto px-6 py-4">
