@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-<head><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3170236932288677"
-     crossorigin="anonymous"></script>
-     google.com, pub-3170236932288677, DIRECT, f08c47fec0942fa0
+<head><script async custom-element="amp-auto-ads"
+        src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js">
+</script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>J ENTERPRICES - Creative Digital Solutions</title>
@@ -98,7 +98,9 @@
         }
     </style>
 </head>
-<body class="bg-gray-900 text-white overflow-x-hidden">
+<body class="bg-gray-900 text-white overflow-x-hidden"><amp-auto-ads type="adsense"
+        data-ad-client="ca-pub-3170236932288677">
+</amp-auto-ads>
     <!-- Navigation -->
     <nav class="fixed top-0 w-full z-50 glass-nav">
         <div class="container mx-auto px-6 py-4">
