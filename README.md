@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head> <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3170236932288677"
      crossorigin="anonymous"></script><script async custom-element="amp-auto-ads"
