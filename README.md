@@ -242,6 +242,7 @@
                     
                     <article class="bg-white bg-opacity-10 backdrop-blur-lg rounded-2xl overflow-hidden card-3d fade-in" style="animation-delay: 0.4s;">
                         <div class="h-48 bg-gradient-to-br from-green-500 to-yellow-500 flex items-center justify-center">
+                        
                             <span class="text-6xl floating" style="animation-delay: 2s;">🎨</span>
                         </div>
                         <div class="p-6">
